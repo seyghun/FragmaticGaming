@@ -10,3 +10,11 @@
     width: 15px;
     height: 15px;
 }
+
+.image {
+    padding-top: 3px;
+}
+
+.desc {
+    padding-left: 3px;
+}
